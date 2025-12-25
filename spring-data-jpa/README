@@ -1,0 +1,2 @@
+# Run with maven
+mvn compile exec:java -Dexec.mainClass="com.sainath.spring.data.jpa.Main"
